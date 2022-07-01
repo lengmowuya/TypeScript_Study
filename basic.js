@@ -22,4 +22,13 @@ sum(123, 456);
 // 参数传多了报错
 // sum(123,456,899);
 // 参数传少了报错
-sum(123);
+// sum(123);
+function add(a, b) {
+    return a + b;
+}
+var result = sum(123, 456);
+// let error = "hi";
+// error = sum(1,4);
+//#region 区域注释
+var x = 0;
+//#endreigon

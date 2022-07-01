@@ -35,3 +35,4 @@ function add(a:number,b:number):number{
 let result =  sum(123,456);
 // let error = "hi";
 // error = sum(1,4);
+
